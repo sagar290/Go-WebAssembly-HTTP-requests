@@ -1,3 +1,5 @@
+Run 
 ``` js
-    run httpCall('https://yourdomain.com')
+    httpCall('https://yourdomain.com') 
 ```
+in the console
